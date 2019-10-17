@@ -1,0 +1,22 @@
+{
+  "name": "photon",
+  "version": "1.0.0",
+  "description": "Photomanager for photographers",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/kumarn33/photon",
+  "keywords": [
+    "Photon",
+    "Photography",
+    "Photo",
+    "Image",
+    "Gallery"
+  ],
+  "author": "Deepak Kumar N D",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  }
+}
